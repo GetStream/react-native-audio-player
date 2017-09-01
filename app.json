@@ -1,0 +1,23 @@
+{
+	"expo": {
+		"name": "Audio Player",
+		"description": "React Native Audio Player",
+		"slug": "react-native-audio-player",
+		"privacy": "public",
+		"sdkVersion": "UNVERSIONED",
+		"version": "1.0.0",
+		"orientation": "portrait",
+		"primaryColor": "#CCCCCC",
+		"icon": "./assets/images/icon.png",
+		"loading": {
+			"icon": "./assets/images/icon.png",
+			"hideExponentText": false
+		},
+		"packagerOpts": {
+			"assetExts": ["ttf", "png"]
+		},
+		"ios": {
+			"supportsTablet": false
+		}
+	}
+}
