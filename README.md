@@ -1,6 +1,6 @@
 # React Native Audio Player 🎶
 
-An example app for an audio player built with [React Native](https://facebook.github.io/react-native/) and [Expo](https://expo.io/). This codebase was heavily inspired by the [open-source](https://github.com/expo/playlist-example) playlist example app written by [Greg Kufera](https://github.com/gkufera).
+An example audio player app for [React Native](https://facebook.github.io/react-native/), built with [Expo](https://expo.io/). This codebase was heavily inspired by the [open-source](https://github.com/expo/playlist-example) playlist example app written by [Greg Kufera](https://github.com/gkufera).
 
 > Note: The good stuff is located in `App.js`.
 
