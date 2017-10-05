@@ -8,7 +8,7 @@ An example audio player app for [React Native](https://facebook.github.io/react-
 
 1. `git clone git@github.com:GetStream/react-native-audio-player.git`
 2. `cd react-native-audio-player`
-3. `npm install`
+3. `yarn install`
 
 ## Start
 
@@ -19,6 +19,6 @@ An example audio player app for [React Native](https://facebook.github.io/react-
 3. Click open
 4. Click "Device" and choose either iOS or Android
 
-## Enjoy
+## Listen
 
 ![](https://i.imgur.com/gnIKb4g.png)
